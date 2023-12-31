@@ -29,3 +29,7 @@ kill -9 [PID]
 kill -9 $(lsof -t -i:5000)
 
 alias kill3000="fuser -k -n tcp 3000"
+
+## For detailed guide
+
+Read:https://docs.google.com/document/d/1bGCTj6u-4ajnqovRUwyHTIwskwnajmfsKVhfIj3OggM/edit?usp=sharing
